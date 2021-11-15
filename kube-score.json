@@ -1,0 +1,5 @@
+{
+    "version": "1.13.0",
+    "url":"https://github.com/zegl/kube-score/releases/download/v1.13.0/kube-score_1.13.0_windows_amd64.exe",
+    "bin":"kube-score"
+}
